@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#slider {
+    background:url('/backgr.png') top center / cover no-repeat; 
+    height: 930px;
+    color: #fff;
+}
+#menu {
+    display: flex;
+    height: 156px;
+    align-items: center;
+    margin: 0 40px;
+    justify-content: space-between;
+}
+.list {
+    display: flex;
+}
+.list li {
+    display: inline-block;
+    font-size: 18px;
+    margin: 0 5px;
+    letter-spacing: 1px;
+}
+.social {
+    display: flex;
+}
+.logo img {
+    height: 78px;
+    margin: 0 18px;
+}
+#title {
+    text-align: center;
+}
+.text-title h1 {
+    font-size: 48px;
+    width: 400px;
+    display:inline-block;
+    margin: 200px 0 0;
+}
+.des p {
+    font-size: 18px;
+    width: 430px;
+    display: inline-block;
+    margin: 16px 0 0;
+}
+button {
+    width: 236px;
+    height: 52px;
+    border-radius: 35px;
+}
+button a {
+    font-size: 16px ;
+}
+
+
