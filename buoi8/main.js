@@ -48,6 +48,6 @@ for (let index = 1; index <= n; index++) {
         tongle += index;
     }
 }
-console.log(tong);
+console.log(tongle);
 
 // cau 8: Kiem tra n cos phai toan la so le hay ko ?
